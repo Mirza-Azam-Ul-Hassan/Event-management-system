@@ -1,0 +1,1 @@
+The Event Management System is a comprehensive database solution designed to streamline and centralize event planning, organization, and execution. It efficiently manages event details, schedules, venues, attendees, and tasks, ensuring seamless coordination and successful event outcomes.
